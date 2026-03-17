@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Web Developer** and **Python Developer** with a strong focus on building scalable web applications, interactive user interfaces, and intelligent software solutions. I love learning new technologies, improving my skills, and creating meaningful digital products.
+I'm a passionate **FULL STACK Developer** and **Python Python Language** with a strong focus on building scalable web applications, interactive user interfaces, and intelligent software solutions. I love learning new technologies, improving my skills, and creating meaningful digital products.
 
 * 🔭 Currently working on: **Educational Learning Platform & AI-based Projects**
-* 🌱 Currently learning: **Advanced Django, REST APIs, and Modern JavaScript**
-* 🤝 Open to collaboration on: **Web Development, AI Projects, and Open Source Contributions**
+* 🌱 Currently learning: **NODE.JS, REST APIs, and Modern JavaScript**
+* 🤝 Open to collaboration on: **FULL STACK Developer, AI Projects, and Open Source Contributions**
 
 ---
 
@@ -33,7 +33,7 @@ I'm a passionate **Web Developer** and **Python Developer** with a strong focus 
 
 ### **Databases:**
 
-* MySQL, MongoDB
+* MySQL,SQL
 
 ---
 
@@ -55,7 +55,7 @@ Personal portfolio built to showcase skills and projects.
 
 A virtual reading platform designed for students and book lovers.
 
-### 🔹 **B2C eCommerce Website**
+### 🔹 **shop-easy-e-commerce**
 
 A complete commerce-based application with customer-focused features.
 
