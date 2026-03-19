@@ -11,7 +11,7 @@
 
 I'm a passionate **Full Stack Developer** and **Python Programming Language** with a strong focus on building scalable web applications, interactive user interfaces, and intelligent software solutions. I love learning new technologies, improving my skills, and creating meaningful digital products.
 
-* 🔭 Currently working on: **Educational Learning Platform & AI-based Projects**
+* 🔭 Currently working on: **Blood Bank App & AI-based Projects**
 * 🌱 Currently learning: **Node.Js, REST APIs, and Modern JavaScript**
 * 🤝 Open to collaboration on: **Full Stack Developer, AI Projects, and Open Source Contributions**
 
