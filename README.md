@@ -33,19 +33,27 @@ I'm a passionate **Full Stack Developer** and **Python Programming Language** wi
 
 ### **Databases:**
 
-* MySQL,SQL
+* FireBase,SQL
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 **Educational_Learning**
+### 🔹 **Educational_Learning Hub**
 
 An education-focused learning system designed to help students learn more effectively.
 
 ### 🔹 **AI_Course**
 
 AI-related learning platform and course management system.
+
+### 🔹**AI_Games**
+
+A collection of classic games like Chess, Tic Tac Toe, and Nim, powered by AI algorithms such as Minimax and Alpha-Beta Pruning.
+
+### 🔹**AI_Gemini Agent**
+
+An intelligent AI agent built using modern AI technologies, designed to assist users with tasks, automation, and smart interactions.
 
 ### 🔹 **Portfolio Website**
 
