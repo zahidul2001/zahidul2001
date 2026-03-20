@@ -3,7 +3,10 @@
 **Web Developer | Python Developer | Student at North East University Bangladesh**
 📍 Sylhet, Bangladesh
 
-🌐 Portfolio: [Visit My Portfolio](https://own-portfolio-3ks6.vercel.app)
+<a href="https://own-portfolio-3ks6.vercel.app" target="_blank" 
+style="padding:10px 20px; background:#007bff; color:white; border-radius:5px; text-decoration:none;">
+  🚀 Visit My Portfolio
+</a>
 ---
 
 ## 🚀 About Me
