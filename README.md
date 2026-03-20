@@ -4,7 +4,7 @@
 📍 Sylhet, Bangladesh
 
 🌐 Portfolio: [Visit My Portfolio]
- (https://own-portfolio-3ks6.vercel.app)
+- (https://own-portfolio-3ks6.vercel.app)
 ---
 
 ## 🚀 About Me
