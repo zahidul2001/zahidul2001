@@ -71,7 +71,7 @@ A complete commerce-based application with customer-focused features.
 ## 📫 Contact & Social Links
 
 * **LinkedIn:** [https://www.linkedin.com/in/zahidul-hasan-imon12](https://www.linkedin.com/in/zahidul-hasan-imon12)
-* **Email:** [hasanzahidul846@gmail.com](mailto:hasanzahidul846@gmail.com)
+* **Email:** [hasanzahidul846@gmail.com](mailto:hasanzahidul847@gmail.com)
 * **Phone:** 01852134062
 
 ---
